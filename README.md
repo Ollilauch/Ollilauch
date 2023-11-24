@@ -1,6 +1,6 @@
 ### Ollilauch
 
-# PC Specs
+### PC Specs
 ---
 ![Static Badge](https://img.shields.io/badge/GPU-RTX%204080-blue?logo=nvidia)
 ![Static Badge](https://img.shields.io/badge/CPU-Ryzen%209%207900X-blue?logo=AMD)
