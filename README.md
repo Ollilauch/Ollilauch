@@ -1,7 +1,7 @@
 # Ollilauch
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=ollilauch&layout=compact)" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=ollilauch&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=ollilauch&layout=compact)" />
 </a>
 
 ### PC Specs
