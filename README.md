@@ -1,7 +1,7 @@
 # Ollilauch
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ollilauch&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ollilauch&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" />
 </a>
 
 # PC Specs
