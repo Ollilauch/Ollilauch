@@ -1,5 +1,7 @@
 # Ollilauch
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollilauch)](https://github.com/anuraghazra/github-readme-stats)
+
 ### PC Specs
 ---
 ![Static Badge](https://img.shields.io/badge/GPU-RTX%204080-blue?logo=nvidia)
